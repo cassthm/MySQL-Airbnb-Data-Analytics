@@ -1,0 +1,86 @@
+[
+	{
+		"host_id" : 2217,
+		"host_name" : "Ian",
+		"neighbourhood_group" : Mitte,
+		"room_type" : "Entire home/apt",
+		"AvgPrice" : 69.71447084233262
+	},
+	{
+		"host_id" : 2986,
+		"host_name" : "Michael",
+		"neighbourhood_group" : Pankow,
+		"room_type" : "Private room",
+		"AvgPrice" : 67.84180790960453
+	},
+	{
+		"host_id" : 4108,
+		"host_name" : "Jana",
+		"neighbourhood_group" : Tempelhof - Schöneberg,
+		"room_type" : "Private room",
+		"AvgPrice" : 96.63438101347018
+	},
+	{
+		"host_id" : 59666,
+		"host_name" : "Melanie",
+		"neighbourhood_group" : Friedrichshain-Kreuzberg,
+		"room_type" : "Private room",
+		"AvgPrice" : 60.8731112324777
+	},
+	{
+		"host_id" : 68997,
+		"host_name" : "Matthias",
+		"neighbourhood_group" : Neukölln,
+		"room_type" : "Entire home/apt",
+		"AvgPrice" : 46.56730494426979
+	},
+	{
+		"host_id" : 156897,
+		"host_name" : "Helen",
+		"neighbourhood_group" : Charlottenburg-Wilm.,
+		"room_type" : "Private room",
+		"AvgPrice" : 114.27072864321607
+	},
+	{
+		"host_id" : 193038,
+		"host_name" : "Michaela",
+		"neighbourhood_group" : Treptow - Köpenick,
+		"room_type" : "Private room",
+		"AvgPrice" : 52.21680672268908
+	},
+	{
+		"host_id" : 275784,
+		"host_name" : "Jo",
+		"neighbourhood_group" : Steglitz - Zehlendorf,
+		"room_type" : "Entire home/apt",
+		"AvgPrice" : 56.327231121281464
+	},
+	{
+		"host_id" : 768932,
+		"host_name" : "Sven",
+		"neighbourhood_group" : Reinickendorf,
+		"room_type" : "Entire home/apt",
+		"AvgPrice" : 48.26315789473684
+	},
+	{
+		"host_id" : 808393,
+		"host_name" : "Oliver",
+		"neighbourhood_group" : Lichtenberg,
+		"room_type" : "Entire home/apt",
+		"AvgPrice" : 56.11337209302326
+	},
+	{
+		"host_id" : 1224097,
+		"host_name" : "Bernhard",
+		"neighbourhood_group" : Marzahn - Hellersdorf,
+		"room_type" : "Entire home/apt",
+		"AvgPrice" : 56.90714285714286
+	},
+	{
+		"host_id" : 1318500,
+		"host_name" : "Renate",
+		"neighbourhood_group" : Spandau,
+		"room_type" : "Private room",
+		"AvgPrice" : 58.233870967741936
+	}
+]
